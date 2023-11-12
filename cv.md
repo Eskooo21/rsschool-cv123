@@ -21,11 +21,22 @@ I am 28 years old and live in Samara. I came to the IT field as an analyst, work
 - Git
 ## Code Examples
 ---
+```javascript
+function multiply(a, b){
+  return a * b
+}
+```
 ## Work Experience
 ---
+Worked on a large number of projects, collected functional and non-functional requirements from customers and modeled them. Drew prototypes of user interfaces
 ## Education
 ---
+* Samara State Aerospace University
+    * Aircraft engine design
+* ULearn
+    * C#
 ## Languages
 ---
 * Russian
 * English (A2)
+> He who does nothing never makes mistakes
