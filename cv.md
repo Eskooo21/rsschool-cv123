@@ -1,10 +1,11 @@
 # Igor Potapenko
 
 # Contact information
+
 - __Phone:__ +71234567890
 - __E-mail:__ m9y2195@mail.com
 - __GitHub:__ Eskooo21
-- __Telegram:__ Igor Potapenko
+- __Telegram:__ Igor Potapenko<br>
 
 # About me
 
@@ -13,14 +14,14 @@ I am 28 years old and live in Samara. I came to the IT field as an analyst, work
 * My strengths:
     * Easily trained
     * I work in a team
-    * Hardworking
-
+    * Hardworking <br>
+    
 # Skills
 
 - C#
 - HTML
 - CSS
-- Git
+- Git <br>
 
 # Code Examples
 
@@ -39,12 +40,12 @@ Worked on a large number of projects, collected functional and non-functional re
 * Samara State Aerospace University
     * Aircraft engine design
 * ULearn
-    * C#
+    * C# <br>
 
 # Languages
 
 * Russian
-* English (A2)
+* English (A2) <br>
 
 ---
 > He who does nothing never makes mistakes
